@@ -1,4 +1,4 @@
-# CommandLineDictionary
+# PythonDictionary
 English dictionary written in Python with a JSON dataset.
 
 Currently supports most (~95%) of words in the dictionary. This will improve in the future with better/newer datasets. 
