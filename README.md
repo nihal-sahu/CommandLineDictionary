@@ -2,6 +2,7 @@
 English dictionary written in Python with a JSON dataset.
 
 Currently supports most (~95%) of words in the dictionary. This will improve in the future with better/newer datasets. 
+Execute the python file "dictionary.py" in your terminal to execute the code.
 
 Features:
   -support for 8 parts of speech (nouns, proper nouns, adjectives, etc.)
