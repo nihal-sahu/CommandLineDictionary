@@ -1,7 +1,8 @@
 import json
 from difflib import get_close_matches
 
-data = json.load(open("data.json")) #dictionary data
+data = json.load(open("data.json"))
+#dictionary data
 
 def word_definition(user_input): #function used to grab definitions
     user_input = user_input.lower()
