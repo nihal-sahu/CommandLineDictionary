@@ -11,6 +11,12 @@ Features:
   
 Upcoming: 
   -incorporation of a graphical interface
-    
+
+<ins>Examples:</ins>
+
+![image](https://user-images.githubusercontent.com/87585163/133201784-770a07fb-af4d-46ce-a5c3-864df2f805f2.png)
+
+![image](https://user-images.githubusercontent.com/87585163/133201847-6e68757f-6123-403e-b6df-837e50db8221.png)
+
    
-I would love to hear ways that this could be made better. Made with <3 by Nihal Sahu
+   
