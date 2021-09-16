@@ -1,4 +1,4 @@
-# PythonDictionary
+# English Dictionary
 English dictionary written in Python 3.9 with a JSON dataset.
 
 Currently supports most (~95%) of words in the dictionary. This will improve in the future with better/newer datasets. 
